@@ -1,0 +1,70 @@
+@import url('./font-awesome.css');
+h1{
+    font-size: 36px;
+    line-height: 43px;
+    color: #212121;
+    font-family: "Raleway";
+    font-weight: 400;
+    text-align: center;
+}
+ hr{
+     border: none;
+     background-color: #ff8b38;
+     color: #ff8b38;
+     height: 3px;
+     width: 64px;
+     text-align: center;
+ }
+.text1{
+   font-size: 14px;
+   line-height: 20px;
+   color: #86878b;
+   font-family: "Open Sans";
+   font-weight: 400;
+   text-align: center;
+}
+ .round{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    border: 3px solid #ff8b38;
+}
+.text2 {
+    font-size: 20px;
+    line-height: 24px;
+    color: #333333;
+    font-family: "Open Sans";
+    font-weight: 700;
+    text-align: center;
+}     
+.box{
+display: flex;
+justify-content: space-around;
+align-items: flex-end;
+}
+.box1{
+    content: "\f0eb";
+    font-family: FontAwesome;
+    width: 33.3%;
+    box-sizing: border-box;
+    padding:  0 10px;
+    margin: auto;
+}
+.box2{
+    width: 33.3%;
+    box-sizing: border-box;
+    padding:  0 10px;
+    margin: auto;
+}
+.box3{
+    width: 33.3%;
+    box-sizing: border-box;
+    padding:  0 10px;
+    margin: auto;
+}
+.lampa{
+   content: \f0eb; 
+   color: #ff8b38;
+   display: block;
+   
+}
